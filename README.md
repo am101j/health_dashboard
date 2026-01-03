@@ -5,6 +5,8 @@ A Power BI dashboard for monitoring hospital performance, patient metrics, billi
 
 ![Overview](images/img1.png)
 
+![Demographics](images/img2.png)
+
 ## Features
 - Total patients and admissions  
 - Billing trends and Year-over-Year (%YoY) comparisons  
