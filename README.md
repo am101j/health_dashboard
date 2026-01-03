@@ -3,7 +3,7 @@
 ## Overview
 A Power BI dashboard for monitoring hospital performance, patient metrics, billing, length of stay (LOS), and medications.
 
-![Overview](image.png)
+![Overview](images/img1.png)
 
 ## Features
 - Total patients and admissions  
